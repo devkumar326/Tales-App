@@ -1,3 +1,7 @@
+This is a simple Web App that allows user to tell a tale from their lives.
+
+## Live: https://tales-app.netlify.app/
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
